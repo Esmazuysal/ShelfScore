@@ -384,7 +384,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 - **Proje Sahibi**: [Esma Zeynep Uysal]
 - **Email**: [esuysll1@gmail.com]
-- **Proje Linki**: [https://github.com/username/shelfscores]
+- **Proje Linki**: [https://github.com/Esmazuysal/ShelfScore]
 
 
 ## 🙏 **Teşekkürler**
