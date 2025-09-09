@@ -14,6 +14,7 @@ Bu klasör, **raf fotoğraf analizi** için **TensorFlow** tabanlı **derin öğ
 - **NumPy** ile matris işlemleri
 - **Image Augmentation** (döndürme, parlaklık, kontrast)
 
+
 #### **B. Derin Öğrenme (Deep Learning)**
 - **TensorFlow/Keras** ile CNN modeli
 - **Transfer Learning** (VGG16, ResNet50, EfficientNet)

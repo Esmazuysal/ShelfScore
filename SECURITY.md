@@ -93,7 +93,7 @@ We regularly audit and update our dependencies:
 ### Contact
 
 For security-related questions or concerns:
-- **Email**: security@shelfscore.com
+- **Email**: esuysll1@gmail.com
 - **GitHub**: Create a private issue (for non-vulnerability security questions)
 
 ---
