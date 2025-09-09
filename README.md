@@ -1,4 +1,4 @@
-iyorumm pemejnile lışt# 🛒 ShelfScore - Raf Fotoğraf Analiz Uygulaması
+# 🛒 ShelfScore - Raf Fotoğraf Analiz Uygulaması
 
 ## 📱 **Proje Hakkında**
 
